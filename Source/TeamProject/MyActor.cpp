@@ -15,7 +15,7 @@ AMyActor::AMyActor()
 void AMyActor::BeginPlay()
 {
 	Super::BeginPlay();
-	
+	//asdf
 }
 
 // Called every frame
